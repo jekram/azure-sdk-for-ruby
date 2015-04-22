@@ -4,7 +4,7 @@
 
 This project provides a Ruby package that makes it easy to access and manage Microsoft Azure Services like Storage, Service Bus and Virtual Machines.
 
-# Library Features
+# Library Features  
 * Storage
     * Blobs
         * create, list, and delete containers, work with container metadata and permissions, list blobs in container
